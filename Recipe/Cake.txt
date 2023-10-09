@@ -4,5 +4,4 @@ Sugar
 Chocolate
 Salt
 ENO
-Cream
 Nuts
